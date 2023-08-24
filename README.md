@@ -22,7 +22,7 @@ El dataset utilizado en este proyecto contiene las siguientes características p
 ## Estructura del Proyecto
 El proyecto se organiza de la siguiente manera:
 
-├── project.ipynb        # Código principal del proyecto
+├── Proyecto.ipynb        # Código principal del proyecto
 
 ├── requirements.txt       # Requerimientos del proyecto
 
